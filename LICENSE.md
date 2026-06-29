@@ -1,4 +1,4 @@
-# 
+# Exclusif ObjectDetect script. Téléchargez et installez avec gestion des erreurs et traitement par lots — rapide, sécurisé et facile à utiliser.
 
 
 
